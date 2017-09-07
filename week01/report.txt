@@ -1,0 +1,9 @@
+#Yohannes Sakti Panggabean
+From task week01 I learnt:
+- creating directory and file
+- removing file
+- push and pull stuff to github
+- editing file using vi
+- cloning my github project to my local repo
+- some basic shell command
+- and another similar stuff
