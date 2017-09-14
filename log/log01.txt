@@ -1,0 +1,5 @@
+w01-170904-00-LR-About: Introduction to Operating System. make memo week00
+w01-170904-12-LR-Adding another important stuff from my own note to memo week00
+w01-170907-00-LR-About: HKI and Scripting. make memo week01
+w01-170907-12-PS-Trying to do task01
+w01-170909-09-PS-Continue doing task01, learning c language from Asdos
