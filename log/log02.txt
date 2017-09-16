@@ -1,0 +1,5 @@
+w02-170914-00-LR-About: Protection, make memo week02
+w02-170914-12-LR-About: Encryption stuff, update memo week02
+w02-170914-20-LR-About: Protection, Encryption, Digital signature, from lecturer
+w02-170914-13-PS-Trying to do task02
+w02-170916-08-PS-Do task 02
